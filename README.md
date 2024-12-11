@@ -1,6 +1,6 @@
 # itcs333-assighnement-3
-#name: abdulaziz abdulhadi mohamed alsakran
-#id: 202105928
+# name: abdulaziz abdulhadi mohamed alsakran
+# id: 202105928
 Objective
 In this assignment, you will work in pairs to create a JavaScript application that retrieves and displays UOB student nationality data from the Bahrain Open Data Portal using their public API.
 
